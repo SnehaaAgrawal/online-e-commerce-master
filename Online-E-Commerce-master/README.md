@@ -5,10 +5,6 @@ This is an Ecommerce Website made with React.js Framework.
  Features
 - Fully Responsive
 
-PROJECT DEMO  LINK : 
-
-https://online-e-commerce.onrender.com
-
 Steps to Run Locally
 
 -> Clone the project
